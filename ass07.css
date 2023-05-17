@@ -1,0 +1,47 @@
+figure img{
+    width: 100%;
+    height: 200px;
+    border-radius: 5px;
+    box-shadow: whitesmoke;
+
+}
+figure img:hover{
+    color: rgb(36, 33, 29);
+    cursor: pointer;
+}
+figure{
+    width: 15%;
+    display: inline-block;
+    background-color:whitesmoke;
+    height: 10%;
+    border-radius: 5px;
+    margin: 10px;
+    box-shadow:0 2px 10px #F99B7D;
+    
+    
+
+}
+figure:hover{
+    cursor: pointer;
+    background-color: white;
+    box-shadow: whitesmoke;
+    
+}
+header{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 50px;
+    margin-left:200px;
+}
+h2{
+    font-size: 15px;
+    
+}
+span{
+    font-size: 10px;
+
+}
+.des{
+    font-size: 9px;
+    color: green;
+}
